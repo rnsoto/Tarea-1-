@@ -1,14 +1,34 @@
-# Tarea-1-
-Tarea 1 Nicolas Soto 
+UNIVERSIDAD DE LAS FUERZAS ARMADAS ESPE 
+
+DEPARTAMENTO DE ELECTRICA Y ELETRÓNICA 
+
+FUNDAMENTOS DE CIRCUITOS ELÉCTRICOS 
+
+TAREA Nro. 1 
+
+Integrantes: Paul Saltos, Roberto Soto 
+
+NRC: 5416
+
+Fecha: 29/05/2021
+
 INFORME DE TAREA Nro. 1
+
 CAPITULO 1 Y CAPITULO 2 
+
 CONCEPTOS FUNDAMENTALES, VOLTAJE Y CORRIENTE 
-	OBJETIVOS 
+
+1.	OBJETIVOS 
 A continuación, vamos a definir los objetivos planteados en el informe, de acuerdo con los temas revisados en la tarea: 
-	Analizar y comprender los conceptos fundamentales que intervienen en el análisis de circuitos eléctricos. 
-	Categorizar las ideas y herramientas proporcionadas en cada tema del libro utilizado, para que posteriormente pueda ser utilizado como el estudiante lo requiera. 
-	Comparar los diferentes diagramas de circuitos presentes en las ilustraciones.
-	Reconocer los elementos que componen un circuito eléctrico tales como una fuente de energía, un interruptor, una resistencia, un conductor y una lampara. 
+
+•	Analizar y comprender los conceptos fundamentales que intervienen en el análisis de circuitos eléctricos. 
+
+•	Categorizar las ideas y herramientas proporcionadas en cada tema del libro utilizado, para que posteriormente pueda ser utilizado como el estudiante lo requiera. 
+
+•	Comparar los diferentes diagramas de circuitos presentes en las ilustraciones.
+
+•	Reconocer los elementos que componen un circuito eléctrico tales como una fuente de energía, un interruptor, una resistencia, un conductor y una lampara. 
+
 	MARCO TEORICO 
 ![image](https://user-images.githubusercontent.com/85181723/120349447-bff75200-c2c3-11eb-82ad-0fe82e374755.png)
 
